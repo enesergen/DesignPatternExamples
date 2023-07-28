@@ -1,4 +1,4 @@
-package creational.objectPool;
+package creational.objectPool.javaTPoint;
 
 public class ExportingTask implements Runnable {
 
